@@ -1,6 +1,6 @@
      export default class Help {
 
-          static shadesOfGreen = ["#3cb043", "#b0fc38", "#3a5311", "#728c69", "#aef359", "#5dbb63", "#98bf64", "#028a0f", "#74b72e", "#466d1d", "#03ac13", "#3ded97"];
+          // static shadesOfGreen = ["#3cb043", "#b0fc38", "#3a5311", "#728c69", "#aef359", "#5dbb63", "#98bf64", "#028a0f", "#74b72e", "#466d1d", "#03ac13", "#3ded97"];
 
           static sortShapes(a, b) {
                if (a.y > b.y) {
